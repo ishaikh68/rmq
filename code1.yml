@@ -1,8 +1,1 @@
-// Copy to conf/settings.json
-// and fill these in with your login details!
-{
-  "db": {
-    "username": "hello",
-    "password": "hello"
-  }
-}
+string: ENC[PKCS7,MIIB+wYJKoZIhvcNAQcDoIIB7DCCAegCAQAxggEhMIIBHQIBADAFMAACAQEwDQYJKoZIhvcNAQEBBQAEggEAvy6Ar3P8+cgUdZSyjqKQ6vG938K9QvMmbuZBgluSd633aCN7C7wd2gIZEoiFinTwaHrQE/h0xNABVVw8QhHTfGMsGSeJob9jk0HkbbIxMKPR7q3vgHQ9ADgIrsKWmAH6eeuLoMTZFbpsObtv1xuHlg+w4yzkpzMlWbIAqT35Vwbbug9uw1MtHhb78u183YWL5VFCawlsImmzyStmuiDvgqEyriwp4Oy7p/GOkBsHg7hHyWwCJPEBwOF+feEwd4iw6tuDA4WbArOvmbv0YXgeCUxJJjqKF8HpqtFZ6LxvKvC7lfEiTACRt3d0kuy9drM41eLN2vZwI3UVd5MqZwULAzCBvQYJKoZIhvcNAQcBMB0GCWCGSAFlAwQBKgQQJbPVqpL/aPqP+142koo6hYCBkLv0LWL5MJo3wOvAu1ddNrpy1XKW85qh9u4LNkHhs/ddGUu8dtCCyU4G3E+TrawYk1hYsaMs+2LeqiPxLvJTxJodTx3QHV97ZVX1+z+ObWvI6TSi1zp2dV8kRmke4jZDXV9a3tunF64HJP4C5KBfCCKR4LlSUryGtNhW/0meHdo7rHA98Us5nO3jH5zhBkefyQ==]
